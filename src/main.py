@@ -1,5 +1,7 @@
 import argparse
+
 import numpy as np
+
 from data_loader import load_data
 from train import train
 

@@ -1,4 +1,5 @@
 import argparse
+
 import numpy as np
 
 RATING_FILE_NAME = dict({'movie': 'ratings.dat', 'book': 'BX-Book-Ratings.csv', 'news': 'ratings.txt'})
